@@ -1,0 +1,55 @@
+- model: apps.product
+  pk: 967bd208-eb0b-11ed-a05b-0242ac120003
+  fields:
+    name: apple
+    price: 12
+    discount: 1
+    detail: d
+    quantity: 7
+    category: 6c84fb90-12c4-11e1-840d-7b25c5ee775a
+    author_id: 2
+
+- model: apps.product
+  pk: 27dd6003-3726-490e-bc94-3c9205fc22f4
+  fields:
+    name: apple
+    price: 12
+    discount: 1
+    detail: d
+    quantity: 7
+    category: 6c84fb90-12c4-11e1-840d-7b25c5ee775b
+    author_id: 3
+
+
+- model: apps.product
+  pk: dfe87bc8-eb13-11ed-a05b-0242ac120003
+  fields:
+    name: apple
+    price: 12
+    discount: 1
+    detail: d
+    quantity: 7
+    category_id: 6c84fb90-12c4-11e1-840d-7b25c5ee775b
+    author_id: 2
+
+- model: apps.product
+  pk: 54563dde-3f1d-481a-a0fc-a7ec1daddec9
+  fields:
+    name: apple
+    price: 12
+    discount: 1
+    detail: d
+    quantity: 7
+    category_id: 6c84fb90-12c4-11e1-840d-7b25c5ee775b
+    author_id: 2
+
+- model: apps.product
+  pk: c0a35011-a554-4f03-93b4-90e02a821d70
+  fields:
+    name: apple
+    price: 12
+    discount: 1
+    detail: d
+    quantity: 7
+    category_id: 6c84fb90-12c4-11e1-840d-7b25c5ee775b
+    author_id: 2

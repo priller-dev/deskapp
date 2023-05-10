@@ -1,0 +1,20 @@
+- model: users.user
+  pk: 2
+  fields:
+    first_name: Botirjon
+    last_name: Botirov
+    email: botirjon@gmail.com
+    is_active: 0
+    date_joined: 2023-05-05 05:29:13.976595
+    password: pbkdf2_sha256$600000$Duy0I6otMeEQrx0RhRWYle$QSrsnfLhHKSN/99iI0k7uPj6Z0K7pcYe3nir/WQgpbg= # 1
+
+
+- model: users.user
+  pk: 3
+  fields:
+    first_name: Botirjon
+    last_name: Botirov
+    email: botirjon123@gmail.com
+    is_active: 1
+    date_joined: 2023-05-05 05:29:13.976595
+    password: pbkdf2_sha256$600000$Duy0I6otMeEQrx0RhRWYle$QSrsnfLhHKSN/99iI0k7uPj6Z0K7pcYe3nir/WQgpbg= # 1
